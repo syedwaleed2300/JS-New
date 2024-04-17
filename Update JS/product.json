@@ -1,0 +1,51 @@
+[
+    {
+        "image": "products/wal11.webp",
+        "title": "Razer BlackShark",
+        "description": "kind or character especially as determined by salient (see SALIENT entry 1 sense 3b) features",
+        "price": "40.99"
+    },
+    {
+        "image": "products/new.webp",
+        "title": "ASUS ROG Cetra True Wireless Gaming Headphones",
+        "description": "kind or character especially as determined by salient (see SALIENT entry 1 sense 3b) features",
+        "price": "20"
+    },
+    {
+        "image": "products/key.jpg",
+        "title": "Logitech G915 TKL Tenkeyless Lightspeed Wireless",
+        "description": "kind or character especially as determined by salient (see SALIENT entry 1 sense 3b) features",
+        "price": "290.60"
+    },
+    {
+        "image": "products/images.jpeg",
+        "title": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
+        "description": "kind or character especially as determined by salient (see SALIENT entry 1 sense 3b) features",
+        "price": "59.99"
+    },
+    {
+        "image": "products/joystick.webp",
+        "title": "PowerA Wireless Nintendo Switch Controller",
+        "description": "kind or character especially as determined by salient (see SALIENT entry 1 sense 3b) features",
+        "price": "44.99"
+    },
+    {
+        "image": "products/play.webp",
+        "title": "PlayStation 4 Console - 1TB Slim Edition",
+        "description": "kind or character especially as determined by salient (see SALIENT entry 1 sense 3b) features",
+
+        "price": "122.22"
+    },
+    {
+        "image": "products/game.png",
+        "title": "High-Back Gaming Chair",
+        "description": "kind or character especially as determined by salient (see SALIENT entry 1 sense 3b) features",
+        "price": "89.99"
+    },
+    {
+        "image": "products/table.jpg",
+        "title": "SEVEN WARRIOR Gaming Desk",
+        "description": "kind or character especially as determined by salient (see SALIENT entry 1 sense 3b) features",
+        "price": "169.99"
+    }
+]
